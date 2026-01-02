@@ -1,4 +1,4 @@
-# Neural Momentum Trading Bot
+# MetaTrader Automation Bot
 
 ## ▶️ Running the Bot (Terminal Instructions)
 
@@ -17,7 +17,7 @@ Chrome will be opened automatically by Selenium.
 From the **root of the repository**:
 
 ``` powershell
-cd Neural-Momentum-Automation
+cd MetaTrader-Automation
 ```
 
 Activate your virtual environment (if you use one):
@@ -34,7 +34,7 @@ python bot_server.py
 
 You should see output similar to:
 
-    Logged in and selected XAUUSD. Sleeping 30s...
+    Logged in and selected XAUUSD. Sleeping 15s...
     Ready. Waiting for TradingView webhook signals...
 
 ⚠️ **Do not close this terminal** while trading.
